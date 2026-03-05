@@ -55,17 +55,9 @@ Pick any task and update below.
 
 Write what you are working on.
 
-Name:
-Task:
-Status:
-
-Example:
-
-Name: Harshit  
-Task: Next.js setup  
-Status: In progress
-
----
+Name:Harshit 
+Task:-Cleanup project structure
+Status:in progress
 
 ## End of Day Update
 
