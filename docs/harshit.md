@@ -55,9 +55,11 @@ Pick any task and update below.
 
 Write what you are working on.
 
-Name:Harshit 
-Task:-Cleanup project structure
-Status:in progress
+Name:Harshit
+
+Task:Cleanup project structure
+
+Status:In progress
 
 ## End of Day Update
 
