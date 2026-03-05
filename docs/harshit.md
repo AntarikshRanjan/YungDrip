@@ -55,18 +55,18 @@ Pick any task and update below.
 
 Write what you are working on.
 
-Name:Harshit
+Name: Harshit
 
-Task:Cleanup project structure
+Task: Cleanup project structure
 
-Status:In progress
+Status: In progress
 
 ## End of Day Update
 
-Date:3/5/26
+Date: 3/5/26
 
-What done today:completed the task till Cleanup project structure
+What done today: Completed the task till Cleanup project structure
 
-Issues:not as such 
+Issues: None 
 
-Next plan:gods plan 
+Next plan: backend 
