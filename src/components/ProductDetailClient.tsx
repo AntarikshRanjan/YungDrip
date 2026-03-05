@@ -27,10 +27,9 @@ export default function ProductDetailClient({ product }: { product: Product }) {
                     margin: "0 auto",
                     padding: "3rem 1.5rem",
                     display: "grid",
-                    gridTemplateColumns: "1fr",
+                    gridTemplateColumns: "repeat(auto-fit, minmax(320px, 1fr))",
                     gap: "3rem",
                 }}
-                className="lg:grid-cols-2"
             >
                 {/* Left — Images */}
                 <div>
@@ -46,7 +45,7 @@ export default function ProductDetailClient({ product }: { product: Product }) {
                             position: "relative",
                         }}
                     >
-                        <span className="yd-logo" style={{ fontSize: "8rem", color: "#c9a84c", opacity: 0.15 }}>YD</span>
+                        <span className="yd-logo" style={{ fontSize: "8rem", color: "#c9a84c", opacity: 0.5 }}>YD</span>
                         {product.tag && (
                             <span
                                 style={{
