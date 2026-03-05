@@ -126,3 +126,12 @@ Commit style: Conventional Commits (`feat:`, `fix:`, `chore:`, `docs:`)
 ---
 
 *YD — Dress sharp. Move silent. Let the drip speak.*
+- Combo suggestion
+- Popup integration with product page
+
+This will be developed separately and integrated later.
+
+---
+
+## 🧠 Project Structure
+>>>>>>> ab0b5128c7ee428bc842aab122eae91a6ce9bd4b
